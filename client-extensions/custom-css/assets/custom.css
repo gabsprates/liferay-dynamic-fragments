@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Quintessential&display=swap");
+
+.quintessential-regular {
+  font-family: "Quintessential", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.art-painting-structure {
+  margin: 15px;
+  background-color: #fdfbf7;
+  padding: 30px;
+  border: 15px solid #d4af37;
+  box-shadow:
+    inset 3px 3px 10px rgba(0, 0, 0, 0.4),
+    0 0 0 2px #5c4033,
+    0 0 0 8px #c5a028,
+    0 0 0 15px #3e2723;
+}
