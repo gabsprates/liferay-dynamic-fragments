@@ -1,0 +1,10 @@
+.blog-post-header {
+}
+.blog-post-header img {
+	max-width: 100%;
+	display: block;
+	aspect-ratio: 16 / 5.5;
+}
+.blog-post-header h1 {
+	margin: 2rem 0 1rem;
+}
